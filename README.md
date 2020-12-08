@@ -1,5 +1,6 @@
 <h1 align="center">G'day, I'm Dennis</h1>
 <h3 align="center">Aussie Web Developer with a passion for Farm Life and Woodturning</h3>
+<img src="farm.jpg" alt="Farm" width="100%"/>
 
 - 🔭 I’m currently working on [AuroraCMS](https://github.com/DiemenDesign/AuroraCMS)
 
