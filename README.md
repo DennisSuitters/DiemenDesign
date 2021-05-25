@@ -1,5 +1,5 @@
 <h1 align="center">G'day, I'm Dennis</h1>
-<h3 align="center">Aussie Web Developer with a passion for Farm Life and Woodturning</h3>
+<h3 align="center">Tasmanian Web Developer with a passion for Farm Life and Woodturning</h3>
 <img src="farm.jpg" alt="Farm" width="100%"/>
 
 - 🔭 I’m currently working on [AuroraCMS](https://github.com/DiemenDesign/AuroraCMS)
@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiemenDesign](https://github.com/DiemenDesign)
 
-- 📫 You can email me @ (for Summernote and AuroraCMS issues go to their project pages, thank you) **dennis@diemen.design**
-
+- 📫 You can contact me @ (for Summernote and AuroraCMS issues go to their project pages, thank you)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
